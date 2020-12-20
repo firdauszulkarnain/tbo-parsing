@@ -1,0 +1,11 @@
+h1,
+h3,
+button,
+p {
+    font-family: Viga;
+}
+
+.form-control {
+    font-family: Viga;
+    font-size: 18px !important;
+}
